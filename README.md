@@ -1,0 +1,2 @@
+# samepackagename
+cool package
